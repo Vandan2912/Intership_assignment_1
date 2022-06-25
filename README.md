@@ -19,6 +19,13 @@ Assignment flutter application development
 7) On click it should print tab 1 / tab 2 / tab 3 clicked.
 (Try to search and understand widget structure [same as AppBar, body etc ] This task will be solved / solution will be provided next week ) 
 
+![image](https://user-images.githubusercontent.com/66006470/175770226-b50533d0-012b-4c98-95f5-0a742f23a2f7.png)
+
+![image](https://user-images.githubusercontent.com/66006470/175770246-a7a1002d-ad7a-4d6f-b4a3-1ec4b16feff0.png)
+
+![image](https://user-images.githubusercontent.com/66006470/175770269-d99c215c-371e-4335-a019-2a7915392918.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
